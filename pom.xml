@@ -16,11 +16,11 @@
     <dependencies>
         <!-- Updated for Java 17 -->
         <dependency>
-            <groupId>jakarta.servlet</groupId>
-            <artifactId>jakarta.servlet-api</artifactId>
-            <version>5.0.0</version>  <!-- Or 6.0.0 if needed -->
-            <scope>provided</scope>
-        </dependency>
+  <groupId>com.thoughtworks.xstream</groupId>
+  <artifactId>xstream</artifactId>
+  <version>1.4.20</version>
+</dependency>
+
     </dependencies>
 
     <build>
