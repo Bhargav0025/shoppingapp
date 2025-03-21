@@ -16,9 +16,10 @@
     <dependencies>
         <!-- Updated for Java 17 -->
         <dependency>
-  <groupId>com.thoughtworks.xstream</groupId>
-  <artifactId>xstream</artifactId>
-  <version>1.4.20</version>
+    <groupId>javax.servlet</groupId>
+    <artifactId>javax.servlet-api</artifactId>
+    <version>4.0.1</version>  <!-- Or the version you need -->
+    <scope>provided</scope>
 </dependency>
 
     </dependencies>
